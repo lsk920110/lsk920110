@@ -1,6 +1,8 @@
-#### 안녕하세요! 👋 저는 JavaSpring 백엔드 개발자입니다.<br/>개발 자체를 좋아해서 Flutter,React,NodeJS도 다뤄봤지만, Java SpringBoot를 가장 선호합니다.
+### 안녕하세요! 👋 저는 백엔드 개발자 이승규 입니다.
+### 개발과 새로운 프레임워크를 학습하는 것을 좋아해서 Flutter,React,NodeJS도 다뤄봤지만, 
+### Java SpringBoot를 가장 선호👍합니다.
 
-
+<br/>
 <h2>Skills</h2>
 
 #### Platforms & Languages
@@ -28,7 +30,7 @@
 </div>
 
 
-
+<br/>
 <h2>
   Experience
 </h2>
@@ -45,7 +47,7 @@
   - OAUTH기반 인증 플랫폼
   - API 서버 및 AWS 배포 관리
 
-
+<br/>
 <h2>
 Education
 </h2>
@@ -58,7 +60,7 @@ Education
 - 2021.09 ~ 2022.04
 - JAVASPRING 백엔드 개발자 양성과정
 
-
+<br/>
 <h2>
 Toy Project
 </h2>
@@ -76,6 +78,6 @@ Toy Project
 <a href="https://github.com/lsk920110/cbt-quiz-front-public">Github</a>
 
 ``` 정보처리 기능사 시험을 준비할때 문제은행 사이트들을 이용했는데, 사용하면서 불편한점을 토대로 직접 만들어 봤습니다.<br/>
-특징은 키보드 만으로 속도감 있게 문제들을 풀 수 있습니다.<br/>
-아직 완성은 되지 않았지만, 기본적인 기능들은 구현이 되었습니다.<br/>
+특징은 키보드 만으로 속도감 있게 문제들을 풀 수 있습니다.
+아직 완성은 되지 않았지만, 기본적인 기능들은 구현이 되었습니다.
 ```
