@@ -28,22 +28,54 @@
 </div>
 
 
+
 <h2>
   Experience
 </h2>
 
+### (주)로웸 백엔드 개발자 
+- 2022.04 ~
 
-<!--
-**lsk920110/lsk920110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- STARPLANET
+  - 방송투표 애플리케이션
+  - API 서버 및 AWS 배포 관리
+  - 투표시 RDS CPU 과부화 관련 이슈 개선
+ 
+- IFREE 
+  - OAUTH기반 인증 플랫폼
+  - API 서버 및 AWS 배포 관리
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>
+Education
+</h2>
+
+### 서울사이버대학교
+- 2021.03 ~ 2024.09(졸업예정)
+- 컴퓨터공학과
+
+### 구디아카데미
+- 2021.09 ~ 2022.04
+- JAVASPRING 백엔드 개발자 양성과정
+
+
+<h2>
+Toy Project
+</h2>
+
+
+### SCM-project
+<a href="https://port-0-scm-project-jvpb2mlocl3obz.sel5.cloudtype.app/">Link</a>
+<a href="https://github.com/lsk920110/scm-project-public">Github</a>
+```개발자가 되기 전 근무했던 회사의 물류전산을 다루었던 경험을 토대로 만든 SCM(Supply Chain Management) 사이트입니다.<br/>
+회원기능, 거래선등록, 제품등록, 모델등록, 코드등록, 발주진행, 배송처리, 매출정리 등의 기능을 구현했습니다.
+```
+
+### 정처기 문제풀이 사이트
+<a href="https://port-0-cbt-quiz-backend-jvpb2mlocl3obz.sel5.cloudtype.app/">Link</a>
+<a href="https://github.com/lsk920110/cbt-quiz-front-public">Github</a>
+
+``` 정보처리 기능사 시험을 준비할때 문제은행 사이트들을 이용했는데, 사용하면서 불편한점을 토대로 직접 만들어 봤습니다.<br/>
+특징은 키보드 만으로 속도감 있게 문제들을 풀 수 있습니다.<br/>
+아직 완성은 되지 않았지만, 기본적인 기능들은 구현이 되었습니다.<br/>
+```
