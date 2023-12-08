@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>Hello World, I'm Seung-Kyu</h1>
+<h1>안녕하세요 백엔드 개발자 이승규입니다.</h1>
 <!--
 **lsk920110/lsk920110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
